@@ -18,7 +18,7 @@ numpy >= 1.19
 Readers do not need to replicate our setup exactly.
   
 ### Run 🏃🏻‍♀️
-* `python main.py`
+* `python main_fedusd.py`
 
 ### 🙋🏻‍♀️ Citation
 
